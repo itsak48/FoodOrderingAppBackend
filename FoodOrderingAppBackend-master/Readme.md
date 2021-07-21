@@ -1,7 +1,7 @@
 
 ### Instructions to setup the project are as follows:
 
-fork https://github.com/kosaraju/FoodOrderingAppBackend
+fork 
 
 open project in intellij and chose folder FoodOrderingAppBackend
 
